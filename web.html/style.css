@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    background-color: #fff;
+}
+form{
+    background-color: silver;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    display: flexbox;
+    min-width: 30%;
+    min-height: 30%;
+    width: auto;
+    height: auto;
+}
